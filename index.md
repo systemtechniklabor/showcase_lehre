@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Digitaler Studienbeginn und Studienerfolg während der Corona-Pandemie und in der Zukunft
+![](gfx/stl_horizontal.png)
 
-You can use the [editor on GitHub](https://github.com/systemtechniklabor/showcase_lehre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Einführung: Das digitale erste Semester
+### Zentrales Informationsportal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Übersichtsseite für Erstsemester und Navigationsstruktur (links)
+![](gfx/wiki_stl.png)
 
-### Markdown
+Startseite des Informationsportals mit Navigationsstruktur
+![](gfx/wiki_start.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Die Tutorial-Videoreihe haben wir mit einem kleinen Augenzwinkern „STLFLIX“ getauft,um die Akzeptanz beim jungen Zielpublikum zu erhöhen und den Studierenden in den schweren Zeiten einen Studieneinstieg mit einem Lächeln zu ermöglichen. Nicht zwingend akademisch-seriöser, aber zielgruppengerechter Humor ;-)
+![](gfx/stlflix.png)
+![](gfx/stlflix2.png)
 
-```markdown
-Syntax highlighted code block
+Zugriffsstatistiken auf das Informationsportal zum Semester- bzw. Vorlesungsbeginn
+![](gfx/202010_wiki.png)
+![](gfx/2021_04_wiki.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Durchführung von digitalen Kennenlern-Aktivitäten für Erstsemester
+Digitale Kennenlern-Aktivitäten für Erstsemester, anonymisiertes Vorstellungsforum in PIB-BWL zur Veranschaulichung der hohen Beteiligung (insgesamt 87 Beiträge mit Vorstellungen)
+![](gfx/forum_1_x.png)
+![](gfx/forum_2_x.png)
 
-- Bulleted
-- List
+Interaktive Website für die live Kennenlernen-Fragerunde
+![](gfx/kennenlernen_faq.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Durchführung: Digitale Lehre und Infrastruktur
+### Virtueller Rechnerraum für digitale Lehrveranstaltungen
+![](gfx/selbststudium_gruppenarbeit.png)
+![](gfx/selbststudium_gruppenarbeit2.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Technisch-didaktische Umsetzung von digitalen, interaktiven Lehrveranstaltungen
+Ausgewählte Szenen digitaler Lehre:
+![](gfx/1-warten-cleaner.png)
+![](gfx/2-ppt.png)
+![](gfx/3b-dokumente.png)
+![](gfx/3-tafel.png)
 
-### Jekyll Themes
+Eine am regulären Arbeitsplatz benutzbare und auch bezahlbare Version (<500 EUR) sah dann so aus:
+![](gfx/schreibtisch-neu.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/systemtechniklabor/showcase_lehre/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Vereinfachte Darstellung des Gesamtsystems zum Streaming der Lehrveranstaltungen. Hierfür wurde ein handelsüblicher, ein paar Jahre alter PC verwendet (<1k EUR), der lediglich vom Arbeitsspeicher etwas aufgerüstet werden musste, um die Vielzahl der gleichzeitig laufenden Anwendungen
+ruckelfrei bedienen zu können (32GB RAM):
+![](gfx/schema-setup.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Multiplikation: Wissenstransfer innerhalb der Hochschule
+Übersicht der Themen („Channels“) im Austausch-Team
+![](gfx/digitalisierungderlehre_msteams.png)
