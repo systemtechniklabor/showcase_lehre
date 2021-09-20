@@ -30,6 +30,7 @@ Interaktive Website für die live Kennenlernen-Fragerunde
 ## Durchführung: Digitale Lehre und Infrastruktur
 ### Virtueller Rechnerraum für digitale Lehrveranstaltungen
 ![](gfx/selbststudium_gruppenarbeit.png)
+
 ![](gfx/selbststudium_gruppenarbeit2.png)
 
 
